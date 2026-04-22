@@ -1,9 +1,9 @@
 {
-    "org": "redditinc",
-    "name": "reddit",
-    "type": "", 
-    "arch": "",
-    "dpi": "",
-    "package" : "com.reddit.frontpage",
-    "version" : ""
+  "org": "redditinc",
+  "name": "reddit",
+  "type": "BUNDLE",
+  "arch": "amr64-v8a",
+  "dpi": "640dpi",
+  "package": "com.reddit.frontpage",
+  "version": ""
 }
