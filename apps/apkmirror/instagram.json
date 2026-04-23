@@ -4,7 +4,7 @@
   "release_prefix": "",
   "type": "BUNDLE",
   "arch": "arm64-v8a",
-  "dpi": "480-640dpi",
+  "dpi": "480dpi",
   "package": "com.instagram.android",
-  "version": "423.0.0.47.66"
+  "version": "425.0.0.0.0"
 }

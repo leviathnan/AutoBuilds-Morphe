@@ -3,7 +3,7 @@
   "name": "youtube",
   "type": "BUNDLE",
   "arch": "arm64-v8a",
-  "dpi": "480-640hdpi",
+  "dpi": "480-640dpi",
   "package": "com.google.android.youtube",
   "version": ""
 }

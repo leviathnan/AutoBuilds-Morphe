@@ -2,8 +2,8 @@
   "org": "redditinc",
   "name": "reddit",
   "type": "BUNDLE",
-  "arch": "amr64-v8a",
-  "dpi": "640dpi",
+  "arch": "universal",
+  "dpi": "120-640dpi",
   "package": "com.reddit.frontpage",
   "version": ""
 }
