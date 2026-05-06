@@ -183,7 +183,7 @@ def get_supported_version(package_name: str, cli: str, patches: str) -> Optional
             'java', '-jar', cli,
             'list-versions',
             '-f', package_name,
-            patches
+            '--patches', patches
         ]
     elif is_revanced_v6_or_newer:
         cmd = [
